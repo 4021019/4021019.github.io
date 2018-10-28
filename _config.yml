@@ -18,7 +18,7 @@ favicon: favicon.png
 repository: 4021019/mfyblog
 github_url: https://github.com/4021019
 cnblog_url: http://www.cnblogs.com/kelemeng
-url: http://www.mefuyu.com
+url: http://blog.mefuyu.com
 enforce_ssl: mefuyu.com
 
 ## Gem
@@ -171,14 +171,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: 4021019
-    repo: mfyblog
+    repo: 4021019.github.io
     oauth:
         client_id: e67500598a000e0d132a
         client_secret: f7cd8a0c0cc6aae8e5fc82f301c78951f987708f
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: 4021019
-    repo: mfyblog
+    repo: 4021019.github.io
     clientID: e67500598a000e0d132a
     clientSecret: f7cd8a0c0cc6aae8e5fc82f301c78951f987708f
 # 在使用其它评论组件时可点击显示 Disqus
